@@ -198,5 +198,5 @@ python -m solution.cli check --provider http://127.0.0.1:8099
 ---
 
 ## 👤 Author
-- **Candidate:** Akshat Gupta
+- **Candidate:** Akshat 
 - **Assignment Choice:** Assignment B — Workflow (Durable Campaign Dispatcher)
